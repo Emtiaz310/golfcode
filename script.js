@@ -22,3 +22,4 @@ function golfScore(par, strokes) {
 }
 
 console.log(golfScore(1, 5));
+
